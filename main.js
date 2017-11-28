@@ -1,6 +1,6 @@
-// const APIKEY = `AIzaSyAox9E0MWF4Tmm5z9vhDnInnwRFM_amU2I`;
+// const APIKEY = ``;
 // const googleApi = `https://maps.googleapis.com/maps/api/js?key=${APIKEY}&callback=initMap`;
-// https://maps.googleapis.com/maps/api/js?key=AIzaSyAox9E0MWF4Tmm5z9vhDnInnwRFM_amU2I&callback=initMap
+// https://maps.googleapis.com/maps/api/js?key=I&callback=initMap
 // let marker = new google.maps.Marker({
 //     position: {},
 //     map: map
